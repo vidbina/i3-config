@@ -1,0 +1,2 @@
+font pango:Terminus 11px
+bindsym $mod+Return exec urxvt
